@@ -1,11 +1,9 @@
-import java.util.Scanner;
-
-public class EJ1 {
+public class EJ2 {
     public static void main(String[] args) {
-        int num = 1;
+        int num = 2;
         do {
             System.out.println(num);
-            num++;
+            num = num + 2;
         } while (num <= 100);
     }
 }
