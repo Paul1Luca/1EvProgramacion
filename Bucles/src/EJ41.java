@@ -9,7 +9,6 @@ public class EJ41 {
         int N = col;
 
         for (int contador = 0, num = 1; num <= col; contador++){
-
         }
     }
 }
